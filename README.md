@@ -3,8 +3,8 @@ Esse é o repositório de um chat onde os usuarios não tem sua conversa gravada
 
 # Trilha
 
-- [ ] Criar a ideia da plataforma
-- [ ] Cirar a trilha do projeto
+- [X] Criar a ideia da plataforma
+- [X] Cirar a trilha do projeto
 - [ ] Desenvolver o layout da plataforma
 
 - [ ] Backend
