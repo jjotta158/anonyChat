@@ -1,0 +1,19 @@
+{
+  "name": "anonyChatServer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/jjotta158/anonyChat.git",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "jjotta158",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
